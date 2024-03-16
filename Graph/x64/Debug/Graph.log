@@ -1,0 +1,8 @@
+﻿  Edge.cpp
+  Graph.cpp
+  Main.cpp
+G:\Graph\Main.cpp(11,10): warning C4101: 'check': unreferenced local variable
+  Vertex.cpp
+  Generating Code...
+G:\Graph\Graph.h(40): warning C4715: 'Graph::getCityByName': not all control paths return a value
+  Graph.vcxproj -> G:\Graph\x64\Debug\Graph.exe

@@ -1,0 +1,26 @@
+﻿  Graph.cpp
+C:\Users\lenovo\source\repos\Graph\Graph.h(32,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Graph\Graph.h(44,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Graph\Graph.h(78,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Graph\Graph.h(114,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Graph\Graph.h(149,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Graph\Graph.h(154,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Graph\Graph.h(180,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Graph\Graph.h(204,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Graph\Graph.h(241,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Graph\Graph.h(287,21): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+C:\Users\lenovo\source\repos\Graph\Graph.h(32,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Graph\Graph.h(44,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Graph\Graph.h(78,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Graph\Graph.h(114,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Graph\Graph.h(149,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Graph\Graph.h(154,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Graph\Graph.h(180,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Graph\Graph.h(204,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Graph\Graph.h(241,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Graph\Graph.h(287,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Graph\Main.cpp(11,10): warning C4101: 'check': unreferenced local variable
+  Generating Code...
+C:\Users\lenovo\source\repos\Graph\Graph.h(40): warning C4715: 'Graph::getCityByName': not all control paths return a value
+  Graph.vcxproj -> C:\Users\lenovo\source\repos\Graph\Debug\Graph.exe
